@@ -12,3 +12,4 @@ The game is a 2 player game. The one who gets 100 points wins.
 If the dice rolls to 1 or the player presses the "HOLD" button to record the total score on the dice, the turn passes to the other player.
 
 <3
+
